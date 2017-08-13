@@ -12,7 +12,7 @@ Requirements
 4. [SDL2_image](https://libsdl.org/projects/SDL_image)
 5. DSLR Camera
 
-All those packages should be available through your Linux or OSX package managers.
+All those packages should be available through your Linux or OSX package managers. For Debian e.g. do ```sudo apt-get install build-essential libsdl2-dev libsdl2-image-dev```
 
 Setup
 -----
